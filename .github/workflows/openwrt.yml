@@ -9,7 +9,7 @@ name: OpenWrt
 
 on:
   schedule:
-    - cron: 0 20 * * *
+    - cron: 30 18 * * *
   release:
     types: [published]
 
